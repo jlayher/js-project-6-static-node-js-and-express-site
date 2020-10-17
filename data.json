@@ -1,0 +1,58 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "XXX",
+            "description": "XXX",
+            "technologies": [
+                "Technology Used 1",
+                "Technology Used 2",
+                "Technology Used 3"
+            ],
+            "live_link": "link to live version of project",
+            "github_link": "link to the Github Repo",
+            "image_urls": [
+                "file-path-to-img-001",
+                "file-path-to-img-002",
+                "file-path-to-img-003",
+                "file-path-to-img-004"
+            ]
+        },
+        {
+            "id": 1,
+            "project_name": "XXX",
+            "description": "XXX",
+            "technologies": [
+                "Technology Used 1",
+                "Technology Used 2",
+                "Technology Used 3"
+            ],
+            "live_link": "link to live version of project",
+            "github_link": "link to the Github Repo",
+            "image_urls": [
+                "file-path-to-img-001",
+                "file-path-to-img-002",
+                "file-path-to-img-003",
+                "file-path-to-img-004"
+            ]
+        },
+        {
+            "id": 2,
+            "project_name": "XXX",
+            "description": "XXX",
+            "technologies": [
+                "Technology Used 1",
+                "Technology Used 2",
+                "Technology Used 3"
+            ],
+            "live_link": "link to live version of project",
+            "github_link": "link to the Github Repo",
+            "image_urls": [
+                "file-path-to-img-001",
+                "file-path-to-img-002",
+                "file-path-to-img-003",
+                "file-path-to-img-004"
+            ]
+        }
+    ]
+}
