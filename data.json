@@ -2,15 +2,17 @@
     "projects": [
         {
             "id": 0,
-            "project_name": "XXX",
-            "description": "XXX",
+            "project_name": "Public API Requests",
+            "description": "A site that generates an employee directory using third party API Requests",
             "technologies": [
-                "Technology Used 1",
-                "Technology Used 2",
-                "Technology Used 3"
+                "JavaCript",
+                "Express",
+                "Pug",
+                "HTML",
+                "CSS"
             ],
             "live_link": "link to live version of project",
-            "github_link": "link to the Github Repo",
+            "github_link": "https://github.com/jlayher/Js-Project-5-Final.git",
             "image_urls": [
                 "file-path-to-img-001",
                 "file-path-to-img-002",
@@ -20,15 +22,15 @@
         },
         {
             "id": 1,
-            "project_name": "XXX",
-            "description": "XXX",
+            "project_name": "Object-Oriented Programming 'Phrase Hunter' Game",
+            "description": "A browser based, word guessing game using JavaScript, and Object-Oriented Programming",
             "technologies": [
-                "Technology Used 1",
-                "Technology Used 2",
-                "Technology Used 3"
+                "JavaScript",
+                "HTML",
+                "CSS"
             ],
             "live_link": "link to live version of project",
-            "github_link": "link to the Github Repo",
+            "github_link": "https://github.com/jlayher/JS-Project-4.git",
             "image_urls": [
                 "file-path-to-img-001",
                 "file-path-to-img-002",
@@ -38,15 +40,15 @@
         },
         {
             "id": 2,
-            "project_name": "XXX",
-            "description": "XXX",
+            "project_name": "Interactive Form",
+            "description": "An interactice form for client-side users",
             "technologies": [
-                "Technology Used 1",
-                "Technology Used 2",
-                "Technology Used 3"
+                "JavaScript",
+                "HTML",
+                "CSS"
             ],
             "live_link": "link to live version of project",
-            "github_link": "link to the Github Repo",
+            "github_link": "https://github.com/jlayher/JS-Project-3.git",
             "image_urls": [
                 "file-path-to-img-001",
                 "file-path-to-img-002",
